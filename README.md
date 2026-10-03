@@ -4,22 +4,22 @@
 ### 🚀 Sobre mí
 Me gusta aprender cosas nuevas, y sobre todo me engancho a algun tema que me guste, soy una persona que le gusta el respeto, y la eduacion.
 - 🔭 Actualmente estoy trabajando en **[Una empresa que vende accesorios de computadoras]**
-- 🌱 Estoy aprendiendo y profundizando en **[SQL Server]**
+- 🌱 Estoy aprendiendo y profundizando en **[SQL Server (en proceso)]**
 - 💬 Pregúntame sobre **[Como hacer de datos]**
-- ⚡ Dato curioso: **[Me gusta cantar en el pequeño estudio musical de mi amigo]**
+- ⚡ Dato curioso: **[Me gusta el frio y me gusta cantar]**
 
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
 #### **Frontend**
-`HTML5` • `CSS3` • `JavaScript`
+`HTML5` • `CSS3` • `JavaScript` EN PROCESO
 
 #### **Backend & BD**
-`Node.js` • `Python` • `Java`
+`Node.js` • `Python` • `Java` EN PROCESO
 
 #### **Herramientas & Cloud**
-`Git` • `Linux` • `VS Code`
+`Git` • `Linux` • `VS Code` EN PROCESO
 
 ---
 
@@ -38,7 +38,7 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 
 ---
 
-### 📜 Certificaciones NO HAY
+### 📜 Certificaciones NO HAY (por el momento)
 * 🎓 **[Nombre de la Certificación 1]** – *Emitido por [Institución, ej: Google, Udemy, Platzi]* ([Ver credencial](https://enlace-a-tu-certificado.com))
 * 🎓 **[Nombre de la Certificación 2]** – *Emitido por [Institución]* ([Ver credencial](https://enlace-a-tu-certificado.com))
 
