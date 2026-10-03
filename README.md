@@ -6,7 +6,7 @@ Me gusta aprender cosas nuevas, y sobre todo me engancho a algun tema que me gus
 - 🔭 Actualmente estoy trabajando en **[Una empresa que vende accesorios de computadoras]**
 - 🌱 Estoy aprendiendo y profundizando en **[SQL Server]**
 - 💬 Pregúntame sobre **[Como hacer de datos]**
-- ⚡ Dato curioso: **[Me gusta el frio]**
+- ⚡ Dato curioso: **[Me gusta cantar en el pequeño estudio musical de mi amigo]**
 
 ---
 
